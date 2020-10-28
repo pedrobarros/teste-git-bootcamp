@@ -2,6 +2,6 @@ import React from 'react';
 
 export default function App() {
 	return (
-		<h1 className="titulo">Meu lindo site</h1>
+		<h1>Meu lindo site</h1>
 	);
 }
